@@ -15,3 +15,8 @@ li:hover a{
     color:rgb(78, 148, 209) !important;
     font-weight: bold;
 }
+
+.modal img {
+    height: 300px;
+    object-fit: cover;
+}
